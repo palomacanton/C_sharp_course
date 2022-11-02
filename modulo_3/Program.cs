@@ -6,7 +6,7 @@ namespace modulo_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //1-) Exemplos: leitura de notas,
         }
     }
 }
