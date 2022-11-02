@@ -1,0 +1,16 @@
+C:\temp\Curso_C#\C_sharp_course\modulo_3\bin\Debug\net5.0\modulo_3.exe
+C:\temp\Curso_C#\C_sharp_course\modulo_3\bin\Debug\net5.0\modulo_3.deps.json
+C:\temp\Curso_C#\C_sharp_course\modulo_3\bin\Debug\net5.0\modulo_3.runtimeconfig.json
+C:\temp\Curso_C#\C_sharp_course\modulo_3\bin\Debug\net5.0\modulo_3.runtimeconfig.dev.json
+C:\temp\Curso_C#\C_sharp_course\modulo_3\bin\Debug\net5.0\modulo_3.dll
+C:\temp\Curso_C#\C_sharp_course\modulo_3\bin\Debug\net5.0\ref\modulo_3.dll
+C:\temp\Curso_C#\C_sharp_course\modulo_3\bin\Debug\net5.0\modulo_3.pdb
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\modulo_3.csproj.AssemblyReference.cache
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\modulo_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\modulo_3.AssemblyInfoInputs.cache
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\modulo_3.AssemblyInfo.cs
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\modulo_3.csproj.CoreCompileInputs.cache
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\modulo_3.dll
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\ref\modulo_3.dll
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\modulo_3.pdb
+C:\temp\Curso_C#\C_sharp_course\modulo_3\obj\Debug\net5.0\modulo_3.genruntimeconfig.cache
